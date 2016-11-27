@@ -9,9 +9,9 @@ Yelee: "3.5"
 menu:
   主页: /
   所有文章: /archives/
-  非科技随笔: /
+  # 非科技随笔: /
   标签云: /tags/
-  关于我: /about/
+  # 关于我: /about/
 
 # Link to your avatar | 填写头像地址
 avatar: /img/avatar.png
@@ -42,12 +42,12 @@ since: 2016
 subnav:
   Email: "mailto:&#109;&#97;&#105;&#108;&#64;&#114;&#111;&#121;&#46;&#116;&#119;"
   #新浪微博: "sina weibo"
-  GitHub: "#"
+  GitHub: "https://github.com/yesimroy"
   #V2EX: "#"
   RSS: "/atom.xml"
   #知乎: "zhihu"
   #豆瓣: "douban"
-  简书: "jianshu"
+  # 简书: "jianshu"
   #SegmentFault: ""
   #博客园: "cnblogs"
   #CSDN: ""
@@ -58,7 +58,7 @@ subnav:
   #AcFun: ""
   #niconico: ""
   #Quora: ""
-  Facebook: "#"
+  Facebook: "https://www.facebook.com/roy.g.lin"
   #Google: "#"
   #Twitter: "#"
   #LinkedIn: "#"
