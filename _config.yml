@@ -40,9 +40,11 @@ since: 2016
 ## https://github.com/hexojs/hexo-generator-feed
 
 subnav:
-  Email: "mailto:&#109;&#97;&#105;&#108;&#64;&#114;&#111;&#121;&#46;&#116;&#119;"
+  Email: "mailto:royguanyu@gmail.com"
   #新浪微博: "sina weibo"
-  GitHub: "https://github.com/yesimroy"
+  Twitter: "#"
+  Facebook: "https://www.facebook.com/royguanyu"
+  GitHub: "https://github.com/royguanyu"
   #V2EX: "#"
   RSS: "/atom.xml"
   #知乎: "zhihu"
@@ -58,10 +60,8 @@ subnav:
   #AcFun: ""
   #niconico: ""
   #Quora: ""
-  Facebook: "https://www.facebook.com/roy.g.lin"
   #Google: "#"
-  #Twitter: "#"
-  #LinkedIn: "#"
+  LinkedIn: "https://www.linkedin.com/in/royguanyu"
   #QQ: "#"
   #微信: "Wechat"
   #PayPal: "#"
@@ -166,7 +166,7 @@ animate: false
 
 # Load jQuery UI to style tooltips
 # 工具提示框样式美化
-jquery_ui: false
+jquery_ui: true
 
 # Max width of right cloumn | 限制右侧内容的宽带
 limit_article_width:
@@ -187,7 +187,7 @@ friends:
 #friends: false
 
 #是否开启“关于我”。
-aboutme: "Do.Think 出走是為了發揮生存的潛能，構築更美麗的夢。當你的才華還撐不起你的野心，你就應該靜下心來學習。"
+aboutme: "Do.Think 我思故我在"
 # aboutme: false
 
 # Open link in a new tab | 是否在新窗口打开链接
